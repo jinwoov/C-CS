@@ -1,4 +1,4 @@
 - static method is a way for you to access the method without having to instantiate object to access the method
 - to access the method in the static class you use `ClassName.Method()`
 - Static vs Object.method
-    - with static method you can change the blueprint 
+    - with static method you change the blueprint 
