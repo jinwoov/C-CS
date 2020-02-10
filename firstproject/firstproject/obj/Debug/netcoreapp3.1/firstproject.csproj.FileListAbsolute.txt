@@ -1,0 +1,11 @@
+C:\Users\Jin\personal\C-CS\firstproject\firstproject\bin\Debug\netcoreapp3.1\firstproject.exe
+C:\Users\Jin\personal\C-CS\firstproject\firstproject\bin\Debug\netcoreapp3.1\firstproject.deps.json
+C:\Users\Jin\personal\C-CS\firstproject\firstproject\bin\Debug\netcoreapp3.1\firstproject.runtimeconfig.json
+C:\Users\Jin\personal\C-CS\firstproject\firstproject\bin\Debug\netcoreapp3.1\firstproject.runtimeconfig.dev.json
+C:\Users\Jin\personal\C-CS\firstproject\firstproject\bin\Debug\netcoreapp3.1\firstproject.dll
+C:\Users\Jin\personal\C-CS\firstproject\firstproject\bin\Debug\netcoreapp3.1\firstproject.pdb
+C:\Users\Jin\personal\C-CS\firstproject\firstproject\obj\Debug\netcoreapp3.1\firstproject.csprojAssemblyReference.cache
+C:\Users\Jin\personal\C-CS\firstproject\firstproject\obj\Debug\netcoreapp3.1\firstproject.AssemblyInfoInputs.cache
+C:\Users\Jin\personal\C-CS\firstproject\firstproject\obj\Debug\netcoreapp3.1\firstproject.AssemblyInfo.cs
+C:\Users\Jin\personal\C-CS\firstproject\firstproject\obj\Debug\netcoreapp3.1\firstproject.dll
+C:\Users\Jin\personal\C-CS\firstproject\firstproject\obj\Debug\netcoreapp3.1\firstproject.pdb
