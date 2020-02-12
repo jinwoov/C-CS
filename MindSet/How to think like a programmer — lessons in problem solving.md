@@ -1,0 +1,1 @@
+Having the mindset to solve complex problem is essential for programmer. I think that take away from this reading is to create a system where, one can practice regularly. Few tips from this reading, like understanding the problem in depth, creating the plan of attack, and dividing into sub problems to solve complex problem is going to help a lot in the future. 

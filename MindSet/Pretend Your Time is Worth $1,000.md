@@ -1,0 +1,1 @@
+From this reading, I learned that to be successful you have to try to complete the task in short span instead of spending entire day to finish it. Also, value the time you have instead of spending it like we have a lot to spare. Also, realizing that saying yes to one means that you are saying 'NO' to dozen of other opportunities.

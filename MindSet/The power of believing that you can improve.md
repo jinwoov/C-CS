@@ -1,0 +1,1 @@
+From this video, I realized that having the growth mindset is very important to grow as a person and programmer. Having a fixed mindset can not only limit your growth, but it can deter you from succeeding from anything that you do. From the study, I found it remarkable that how much neurons were firing for individual with growth mindset. 

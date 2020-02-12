@@ -1,0 +1,1 @@
+From this video, I learned that true success comes from Grit thinking. Person with grit has perseverance even after failure and also he/she is going to stick with this willingness to grow for life time. I think it's easy to assume the role of being gritty, but hard to practice that in daily life.
