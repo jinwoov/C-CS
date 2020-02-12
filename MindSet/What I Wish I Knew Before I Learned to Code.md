@@ -1,0 +1,1 @@
+People learn in different way and this reading really exemplify that concept. I learned that it is completely okay to ask questions without feeling bad or guilty. Also, I learned that it is fine to take our time in certain concept, because everyone has different pace of learning. 
