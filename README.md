@@ -1,2 +1,8 @@
 # C-CS
-study for c language
+Repo strictly for education purposes. 
+
+Author: Jin Kim
+
+Credit
+- DevU
+- mmtus
