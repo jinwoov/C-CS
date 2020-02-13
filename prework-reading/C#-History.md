@@ -1,0 +1,30 @@
+# C# History
+
+- Version 1.0
+    - Lacked async capabilities and some of the slick functionality.
+- Version 1.2
+    - Shipped Visual Studio .NET 2003. Code generated `forEach` loop called Dispose.
+- Version 2.0
+    - Visual studio 2005 was released
+    - Added capabilities including:
+        - Getter/Setter separate accessibility
+        - Method group conversions (delegates)
+        - Static classes
+        - Delegate inferences
+    - Brought iterators that examine all the items in a list
+        - Helped with readability and people's ability to reason about the code.
+- Version 3.0
+    - Version included, auto-implemented properties, anonymous types, query expression, lambda expressions, expression trees, extension methods, implicitly typed local variables, partial methods and object and collection initializers.
+    - LINQ: language-integrated query is query expression
+    - begun to lay the groundwork for turning C# into a hybrid language.
+    - for loop can be done using list.Average();
+- Version 4.0
+    - Included dynamic binding, named/optional arguments, generic covariant and contravariant and embedded interop types
+    - `dynamic` was introduced this version and it had ability to override the compiler on compile-time typing. 
+- Version 5.0
+    - Included feature of async and await model for asynchronous programming. 
+    - having user to skip the waiting part and let the await or async run in the background of runtime.
+- Version 6.0
+    - made the code a lot more cleaner and readable.
+- Version 7.0
+    - `out` keyword was implemented and allowed multiple return values.
