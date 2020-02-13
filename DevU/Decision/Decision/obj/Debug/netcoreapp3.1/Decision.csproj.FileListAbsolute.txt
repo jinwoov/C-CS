@@ -1,0 +1,11 @@
+C:\Users\Jin\source\repos\Decision\Decision\bin\Debug\netcoreapp3.1\Decision.exe
+C:\Users\Jin\source\repos\Decision\Decision\bin\Debug\netcoreapp3.1\Decision.deps.json
+C:\Users\Jin\source\repos\Decision\Decision\bin\Debug\netcoreapp3.1\Decision.runtimeconfig.json
+C:\Users\Jin\source\repos\Decision\Decision\bin\Debug\netcoreapp3.1\Decision.runtimeconfig.dev.json
+C:\Users\Jin\source\repos\Decision\Decision\bin\Debug\netcoreapp3.1\Decision.dll
+C:\Users\Jin\source\repos\Decision\Decision\bin\Debug\netcoreapp3.1\Decision.pdb
+C:\Users\Jin\source\repos\Decision\Decision\obj\Debug\netcoreapp3.1\Decision.csprojAssemblyReference.cache
+C:\Users\Jin\source\repos\Decision\Decision\obj\Debug\netcoreapp3.1\Decision.AssemblyInfoInputs.cache
+C:\Users\Jin\source\repos\Decision\Decision\obj\Debug\netcoreapp3.1\Decision.AssemblyInfo.cs
+C:\Users\Jin\source\repos\Decision\Decision\obj\Debug\netcoreapp3.1\Decision.dll
+C:\Users\Jin\source\repos\Decision\Decision\obj\Debug\netcoreapp3.1\Decision.pdb
