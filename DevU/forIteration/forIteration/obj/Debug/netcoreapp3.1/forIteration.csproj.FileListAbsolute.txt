@@ -1,0 +1,11 @@
+C:\Users\Jin\personal\C-CS\DevU\forIteration\forIteration\bin\Debug\netcoreapp3.1\forIteration.exe
+C:\Users\Jin\personal\C-CS\DevU\forIteration\forIteration\bin\Debug\netcoreapp3.1\forIteration.deps.json
+C:\Users\Jin\personal\C-CS\DevU\forIteration\forIteration\bin\Debug\netcoreapp3.1\forIteration.runtimeconfig.json
+C:\Users\Jin\personal\C-CS\DevU\forIteration\forIteration\bin\Debug\netcoreapp3.1\forIteration.runtimeconfig.dev.json
+C:\Users\Jin\personal\C-CS\DevU\forIteration\forIteration\bin\Debug\netcoreapp3.1\forIteration.dll
+C:\Users\Jin\personal\C-CS\DevU\forIteration\forIteration\bin\Debug\netcoreapp3.1\forIteration.pdb
+C:\Users\Jin\personal\C-CS\DevU\forIteration\forIteration\obj\Debug\netcoreapp3.1\forIteration.csprojAssemblyReference.cache
+C:\Users\Jin\personal\C-CS\DevU\forIteration\forIteration\obj\Debug\netcoreapp3.1\forIteration.AssemblyInfoInputs.cache
+C:\Users\Jin\personal\C-CS\DevU\forIteration\forIteration\obj\Debug\netcoreapp3.1\forIteration.AssemblyInfo.cs
+C:\Users\Jin\personal\C-CS\DevU\forIteration\forIteration\obj\Debug\netcoreapp3.1\forIteration.dll
+C:\Users\Jin\personal\C-CS\DevU\forIteration\forIteration\obj\Debug\netcoreapp3.1\forIteration.pdb
