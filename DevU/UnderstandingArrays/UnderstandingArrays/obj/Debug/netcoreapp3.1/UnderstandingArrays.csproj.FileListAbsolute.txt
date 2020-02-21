@@ -1,0 +1,11 @@
+C:\Users\jin\codefellows\401\C-CS\DevU\UnderstandingArrays\UnderstandingArrays\bin\Debug\netcoreapp3.1\UnderstandingArrays.exe
+C:\Users\jin\codefellows\401\C-CS\DevU\UnderstandingArrays\UnderstandingArrays\bin\Debug\netcoreapp3.1\UnderstandingArrays.deps.json
+C:\Users\jin\codefellows\401\C-CS\DevU\UnderstandingArrays\UnderstandingArrays\bin\Debug\netcoreapp3.1\UnderstandingArrays.runtimeconfig.json
+C:\Users\jin\codefellows\401\C-CS\DevU\UnderstandingArrays\UnderstandingArrays\bin\Debug\netcoreapp3.1\UnderstandingArrays.runtimeconfig.dev.json
+C:\Users\jin\codefellows\401\C-CS\DevU\UnderstandingArrays\UnderstandingArrays\bin\Debug\netcoreapp3.1\UnderstandingArrays.dll
+C:\Users\jin\codefellows\401\C-CS\DevU\UnderstandingArrays\UnderstandingArrays\bin\Debug\netcoreapp3.1\UnderstandingArrays.pdb
+C:\Users\jin\codefellows\401\C-CS\DevU\UnderstandingArrays\UnderstandingArrays\obj\Debug\netcoreapp3.1\UnderstandingArrays.csprojAssemblyReference.cache
+C:\Users\jin\codefellows\401\C-CS\DevU\UnderstandingArrays\UnderstandingArrays\obj\Debug\netcoreapp3.1\UnderstandingArrays.AssemblyInfoInputs.cache
+C:\Users\jin\codefellows\401\C-CS\DevU\UnderstandingArrays\UnderstandingArrays\obj\Debug\netcoreapp3.1\UnderstandingArrays.AssemblyInfo.cs
+C:\Users\jin\codefellows\401\C-CS\DevU\UnderstandingArrays\UnderstandingArrays\obj\Debug\netcoreapp3.1\UnderstandingArrays.dll
+C:\Users\jin\codefellows\401\C-CS\DevU\UnderstandingArrays\UnderstandingArrays\obj\Debug\netcoreapp3.1\UnderstandingArrays.pdb
