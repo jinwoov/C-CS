@@ -9,3 +9,14 @@ C:\Users\Jin\personal\C-CS\DevU\forIteration\forIteration\obj\Debug\netcoreapp3.
 C:\Users\Jin\personal\C-CS\DevU\forIteration\forIteration\obj\Debug\netcoreapp3.1\forIteration.AssemblyInfo.cs
 C:\Users\Jin\personal\C-CS\DevU\forIteration\forIteration\obj\Debug\netcoreapp3.1\forIteration.dll
 C:\Users\Jin\personal\C-CS\DevU\forIteration\forIteration\obj\Debug\netcoreapp3.1\forIteration.pdb
+C:\Users\jin\codefellows\401\C-CS\DevU\forIteration\forIteration\bin\Debug\netcoreapp3.1\forIteration.exe
+C:\Users\jin\codefellows\401\C-CS\DevU\forIteration\forIteration\bin\Debug\netcoreapp3.1\forIteration.deps.json
+C:\Users\jin\codefellows\401\C-CS\DevU\forIteration\forIteration\bin\Debug\netcoreapp3.1\forIteration.runtimeconfig.json
+C:\Users\jin\codefellows\401\C-CS\DevU\forIteration\forIteration\bin\Debug\netcoreapp3.1\forIteration.runtimeconfig.dev.json
+C:\Users\jin\codefellows\401\C-CS\DevU\forIteration\forIteration\bin\Debug\netcoreapp3.1\forIteration.dll
+C:\Users\jin\codefellows\401\C-CS\DevU\forIteration\forIteration\bin\Debug\netcoreapp3.1\forIteration.pdb
+C:\Users\jin\codefellows\401\C-CS\DevU\forIteration\forIteration\obj\Debug\netcoreapp3.1\forIteration.csprojAssemblyReference.cache
+C:\Users\jin\codefellows\401\C-CS\DevU\forIteration\forIteration\obj\Debug\netcoreapp3.1\forIteration.AssemblyInfoInputs.cache
+C:\Users\jin\codefellows\401\C-CS\DevU\forIteration\forIteration\obj\Debug\netcoreapp3.1\forIteration.AssemblyInfo.cs
+C:\Users\jin\codefellows\401\C-CS\DevU\forIteration\forIteration\obj\Debug\netcoreapp3.1\forIteration.dll
+C:\Users\jin\codefellows\401\C-CS\DevU\forIteration\forIteration\obj\Debug\netcoreapp3.1\forIteration.pdb

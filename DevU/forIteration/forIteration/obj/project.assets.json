@@ -8,20 +8,25 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Jin\\.nuget\\packages\\": {}
+    "C:\\Users\\jin\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jin\\personal\\C-CS\\DevU\\forIteration\\forIteration\\forIteration.csproj",
+      "projectUniqueName": "C:\\Users\\jin\\codefellows\\401\\C-CS\\DevU\\forIteration\\forIteration\\forIteration.csproj",
       "projectName": "forIteration",
-      "projectPath": "C:\\Users\\Jin\\personal\\C-CS\\DevU\\forIteration\\forIteration\\forIteration.csproj",
-      "packagesPath": "C:\\Users\\Jin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jin\\personal\\C-CS\\DevU\\forIteration\\forIteration\\obj\\",
+      "projectPath": "C:\\Users\\jin\\codefellows\\401\\C-CS\\DevU\\forIteration\\forIteration\\forIteration.csproj",
+      "packagesPath": "C:\\Users\\jin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jin\\codefellows\\401\\C-CS\\DevU\\forIteration\\forIteration\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Jin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\jin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
