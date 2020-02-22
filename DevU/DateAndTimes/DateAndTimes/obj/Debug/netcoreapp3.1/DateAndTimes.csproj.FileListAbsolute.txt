@@ -1,0 +1,11 @@
+C:\Users\jin\codefellows\401\C-CS\DevU\DateAndTimes\DateAndTimes\bin\Debug\netcoreapp3.1\DateAndTimes.exe
+C:\Users\jin\codefellows\401\C-CS\DevU\DateAndTimes\DateAndTimes\bin\Debug\netcoreapp3.1\DateAndTimes.deps.json
+C:\Users\jin\codefellows\401\C-CS\DevU\DateAndTimes\DateAndTimes\bin\Debug\netcoreapp3.1\DateAndTimes.runtimeconfig.json
+C:\Users\jin\codefellows\401\C-CS\DevU\DateAndTimes\DateAndTimes\bin\Debug\netcoreapp3.1\DateAndTimes.runtimeconfig.dev.json
+C:\Users\jin\codefellows\401\C-CS\DevU\DateAndTimes\DateAndTimes\bin\Debug\netcoreapp3.1\DateAndTimes.dll
+C:\Users\jin\codefellows\401\C-CS\DevU\DateAndTimes\DateAndTimes\bin\Debug\netcoreapp3.1\DateAndTimes.pdb
+C:\Users\jin\codefellows\401\C-CS\DevU\DateAndTimes\DateAndTimes\obj\Debug\netcoreapp3.1\DateAndTimes.csprojAssemblyReference.cache
+C:\Users\jin\codefellows\401\C-CS\DevU\DateAndTimes\DateAndTimes\obj\Debug\netcoreapp3.1\DateAndTimes.AssemblyInfoInputs.cache
+C:\Users\jin\codefellows\401\C-CS\DevU\DateAndTimes\DateAndTimes\obj\Debug\netcoreapp3.1\DateAndTimes.AssemblyInfo.cs
+C:\Users\jin\codefellows\401\C-CS\DevU\DateAndTimes\DateAndTimes\obj\Debug\netcoreapp3.1\DateAndTimes.dll
+C:\Users\jin\codefellows\401\C-CS\DevU\DateAndTimes\DateAndTimes\obj\Debug\netcoreapp3.1\DateAndTimes.pdb
