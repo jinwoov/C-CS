@@ -7,7 +7,7 @@ Prework
 ![dotnet prework version](dotnet-version.jpg)
 
 ## Code-Challenge
-Problem 1: Array Max Result
+### Problem 1: Array Max Result
   
 ### Instruction of Challenge
 Run the application by typing `dotnet run` in the /code-challenge folder. This will prompt main menu. type 1 and enter to open `Array Max Result` application.
