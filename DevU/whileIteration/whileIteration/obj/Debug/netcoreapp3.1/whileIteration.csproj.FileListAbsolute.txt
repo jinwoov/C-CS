@@ -1,0 +1,11 @@
+C:\Users\jin\codefellows\401\C-CS\DevU\whileIteration\whileIteration\bin\Debug\netcoreapp3.1\whileIteration.exe
+C:\Users\jin\codefellows\401\C-CS\DevU\whileIteration\whileIteration\bin\Debug\netcoreapp3.1\whileIteration.deps.json
+C:\Users\jin\codefellows\401\C-CS\DevU\whileIteration\whileIteration\bin\Debug\netcoreapp3.1\whileIteration.runtimeconfig.json
+C:\Users\jin\codefellows\401\C-CS\DevU\whileIteration\whileIteration\bin\Debug\netcoreapp3.1\whileIteration.runtimeconfig.dev.json
+C:\Users\jin\codefellows\401\C-CS\DevU\whileIteration\whileIteration\bin\Debug\netcoreapp3.1\whileIteration.dll
+C:\Users\jin\codefellows\401\C-CS\DevU\whileIteration\whileIteration\bin\Debug\netcoreapp3.1\whileIteration.pdb
+C:\Users\jin\codefellows\401\C-CS\DevU\whileIteration\whileIteration\obj\Debug\netcoreapp3.1\whileIteration.csprojAssemblyReference.cache
+C:\Users\jin\codefellows\401\C-CS\DevU\whileIteration\whileIteration\obj\Debug\netcoreapp3.1\whileIteration.AssemblyInfoInputs.cache
+C:\Users\jin\codefellows\401\C-CS\DevU\whileIteration\whileIteration\obj\Debug\netcoreapp3.1\whileIteration.AssemblyInfo.cs
+C:\Users\jin\codefellows\401\C-CS\DevU\whileIteration\whileIteration\obj\Debug\netcoreapp3.1\whileIteration.dll
+C:\Users\jin\codefellows\401\C-CS\DevU\whileIteration\whileIteration\obj\Debug\netcoreapp3.1\whileIteration.pdb
