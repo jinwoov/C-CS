@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jin\\codefellows\\401\\C-CS\\Code-Challenge\\code-challenge\\code-challenge.csproj",
+      "projectUniqueName": "C:\\Users\\jin\\codefellows\\401\\C-CS\\CodeChallenge\\code-challenge.csproj",
       "projectName": "code-challenge",
-      "projectPath": "C:\\Users\\jin\\codefellows\\401\\C-CS\\Code-Challenge\\code-challenge\\code-challenge.csproj",
+      "projectPath": "C:\\Users\\jin\\codefellows\\401\\C-CS\\CodeChallenge\\code-challenge.csproj",
       "packagesPath": "C:\\Users\\jin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jin\\codefellows\\401\\C-CS\\Code-Challenge\\code-challenge\\obj\\",
+      "outputPath": "C:\\Users\\jin\\codefellows\\401\\C-CS\\CodeChallenge\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

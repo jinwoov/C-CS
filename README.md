@@ -10,10 +10,18 @@ Prework
 ### Problem 1: Array Max Result
   
 ### Instruction of Challenge
-Run the application by typing `dotnet run` in the /code-challenge folder. This will prompt main menu. type 1 and enter to open `Array Max Result` application.
+Run the application by typing `dotnet run` in the /code-challenge folder. This will prompt main menu. Type in 1 and enter to open `Array Max Result` application.
 Thereafter, type in 5 inputs and follow instruction. Upon entering five numbers console will prompt my number and how many points user earned.
-
+  
 ![dotnet prework code challenge #1](array-max-result.jpg)
+
+### Problem 2: Leap Year Calculation
+
+### Instruction of Challenge
+Run the application by typing `dotnet run` in the /code-challenge folder. This will prompt main menu. Type in 2 and enter to open `Leap Year Calculation` application.
+Thereafter, type in year as seen in instruction. Upon entering the year, console will prompt if it is indeed leap year or not.
+  
+![dotnet prework code challenge #2](Leap-Year-Calculator.jpg)
 
 
 
