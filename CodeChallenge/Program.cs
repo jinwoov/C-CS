@@ -30,6 +30,11 @@ namespace code_challenge
                 LeapYearCalc();
                 return true;
             }
+            else if (userChoice == 3)
+            {
+                PerfectSequence();
+                return true;
+            }
             else
             {
                 return false;
@@ -73,6 +78,37 @@ namespace code_challenge
             else
             {
                 Console.WriteLine("It is not leap year");
+            }
+        }
+
+        private static void PerfectSequence()
+        {
+            Console.WriteLine("Type in array of numbers to check if its perfect sequence");
+            string userInput = Console.ReadLine();
+            userInput = userInput.Replace("[", "");
+            userInput = userInput.Replace("]", "");
+            string[] newArray = userInput.Split(",");
+            int[] numArray = Array.ConvertAll(
+                newArray, str => int.Parse(str));
+            int count = 0;
+            int countMult = 1;
+            foreach (var value in numArray)
+            {
+                if (value<0) {
+                    Console.WriteLine("You entered negative number");
+                    Console.WriteLine("No");
+                    return;
+                }
+                else {
+                    count += value;
+                    countMult *= value;
+                }
+            }
+            if (count == countMult){
+                Console.WriteLine("Yes");
+            }
+            else {
+                Console.WriteLine("No");
             }
         }
     }
