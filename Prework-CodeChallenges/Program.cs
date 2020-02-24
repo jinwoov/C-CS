@@ -18,7 +18,8 @@ namespace code_challenge
             Console.WriteLine("1. Array Max Result");
             Console.WriteLine("2. Leap Year Calculator");
             Console.WriteLine("3. Perfect Sequence");
-            Console.WriteLine("4. EXIT");
+            Console.WriteLine("4. Sum of Rows");
+            Console.WriteLine("5. EXIT");
             int userChoice = int.Parse(Console.ReadLine());
             if (userChoice == 1)
             {
@@ -33,6 +34,11 @@ namespace code_challenge
             else if (userChoice == 3)
             {
                 PerfectSequence();
+                return true;
+            }
+            else if (userChoice == 4)
+            {
+                SumOfRows();
                 return true;
             }
             else
@@ -110,6 +116,30 @@ namespace code_challenge
             else {
                 Console.WriteLine("No");
             }
+        }
+        private static void SumOfRows()
+        {   
+            Console.WriteLine("Please type in length of the array");
+            int lengthNumber = int.Parse(Console.ReadLine());
+            Console.WriteLine("Please type in width of the array");
+            int widthNum = int.Parse(Console.ReadLine());
+
+            Random randomNum = new Random();
+            int [,] myArray = new int[lengthNumber, widthNum];
+            int[] sumArray = new int[lengthNumber];
+            for(int i=0; i < lengthNumber; i++)
+            {
+                int count = 0;    
+                for(int j=0; j<widthNum; j++) 
+                {
+                    int generatedNumber = randomNum.Next(1,10);
+                    myArray[i, j] = generatedNumber;
+                    count += generatedNumber;
+                    Console.WriteLine("[{0}, {1}] = {2}", i, j, myArray[i,j]);
+                }
+                sumArray[i] = count;
+            }
+            Console.WriteLine("[{0}]", String.Join(", ", sumArray));
         }
     }
 }

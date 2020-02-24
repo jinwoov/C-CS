@@ -6,6 +6,16 @@ Author: Jin Kim
 Prework  
 ![dotnet prework version](dotnet-version.jpg)
 
+
+## MindSet
+- [Carol Dweck on the Growth Mindset](./Prework-MindSet/Power-of-Positive-mindset.md)
+- [Angela Lee Duckworth on Grit](./Prework-MindSet/Gritty.md)
+- [Alain de Botton on Redefining Success](./Prework-MindSet/failure.md)
+- [Listen to The Drs. Sarah on Impostor Syndrome](./Prework-MindSet/Imposter-syndrome.md)
+- [How to think like a programmer -- lessons in problem solving](./Prework-MindSet/think-link-programmer.md)
+- [Pretend your time is worth $1000/hour](./Prework-MindSet/Time-Worth-grand.md)
+- [What I Wish I Knew Before I Learned to Code](./Prework-MindSet/wish-i-knew.md)
+
 ## Code-Challenge
 ### Problem 1: Array Max Result
   
@@ -30,6 +40,14 @@ Run the application by typing `dotnet run` in the /code-challenge folder. This w
 Thereafter, type in array of numbers as seen in instruction. Upon entering the array, console will prompt if it is indeed a perfect sequence.
   
 ![dotnet prework code challenge #3](Perfect-sequence.jpg)
+
+### Problem 4: Sum of Rows
+
+### Instruction of Challenge
+Run the application by typing `dotnet run` in the /code-challenge folder. This will prompt main menu. Type in 4 and enter to open `Sum of Rows` application.
+Thereafter, type in the length and width of multi-dimensional array as seen in instruction. Upon entering the two values, console will prompt the randomly generated numbers at each position of array and sum of each postion.
+  
+![dotnet prework code challenge #3](Sum-of-Rows.jpg)
 
 
 
