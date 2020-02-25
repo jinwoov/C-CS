@@ -20,3 +20,14 @@ C:\Users\jin\codefellows\401\C-CS\CodeChallenge\obj\Debug\netcoreapp3.1\code-cha
 C:\Users\jin\codefellows\401\C-CS\CodeChallenge\obj\Debug\netcoreapp3.1\code-challenge.AssemblyInfo.cs
 C:\Users\jin\codefellows\401\C-CS\CodeChallenge\obj\Debug\netcoreapp3.1\code-challenge.dll
 C:\Users\jin\codefellows\401\C-CS\CodeChallenge\obj\Debug\netcoreapp3.1\code-challenge.pdb
+C:\Users\jin\codefellows\401\C-CS\Prework-CodeChallenges\bin\Debug\netcoreapp3.1\code-challenge.exe
+C:\Users\jin\codefellows\401\C-CS\Prework-CodeChallenges\bin\Debug\netcoreapp3.1\code-challenge.deps.json
+C:\Users\jin\codefellows\401\C-CS\Prework-CodeChallenges\bin\Debug\netcoreapp3.1\code-challenge.runtimeconfig.json
+C:\Users\jin\codefellows\401\C-CS\Prework-CodeChallenges\bin\Debug\netcoreapp3.1\code-challenge.runtimeconfig.dev.json
+C:\Users\jin\codefellows\401\C-CS\Prework-CodeChallenges\bin\Debug\netcoreapp3.1\code-challenge.dll
+C:\Users\jin\codefellows\401\C-CS\Prework-CodeChallenges\bin\Debug\netcoreapp3.1\code-challenge.pdb
+C:\Users\jin\codefellows\401\C-CS\Prework-CodeChallenges\obj\Debug\netcoreapp3.1\code-challenge.csprojAssemblyReference.cache
+C:\Users\jin\codefellows\401\C-CS\Prework-CodeChallenges\obj\Debug\netcoreapp3.1\code-challenge.AssemblyInfoInputs.cache
+C:\Users\jin\codefellows\401\C-CS\Prework-CodeChallenges\obj\Debug\netcoreapp3.1\code-challenge.AssemblyInfo.cs
+C:\Users\jin\codefellows\401\C-CS\Prework-CodeChallenges\obj\Debug\netcoreapp3.1\code-challenge.dll
+C:\Users\jin\codefellows\401\C-CS\Prework-CodeChallenges\obj\Debug\netcoreapp3.1\code-challenge.pdb
