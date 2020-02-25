@@ -37,7 +37,7 @@ Thereafter, type in year as seen in instruction. Upon entering the year, console
 
 ### Instruction of Challenge
 Run the application by typing `dotnet run` in the /code-challenge folder. This will prompt main menu. Type in 3 and enter to open `Perfect Sequence` application.
-Thereafter, type in array of numbers as seen in instruction. Upon entering the array, console will prompt if it is indeed a perfect sequence.
+Thereafter, type in list of numbers with commas(,) as seen in instruction. Upon entering the numbers, console will prompt if it is indeed a perfect sequence.
   
 ![dotnet prework code challenge #3](Perfect-sequence.jpg)
 
