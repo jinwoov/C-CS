@@ -1,0 +1,3 @@
+# Deliberate Practice — The Fastest Way to Improve Your Skills
+
+From this reading, I learned that practicing a craft takes effort and full attention. Often times, I noticed myself falling into rabbit hole of youtube and other distraction and I count all those time to my studying time. However, I didn't get much out from that. Also, learend that every professional put best effort on things to master their craft and I will put my best effort on 401 to get as much as possible out of it.
