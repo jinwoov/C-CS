@@ -17,6 +17,10 @@ Prework
 - [Pretend your time is worth $1000/hour](./Prework-MindSet/Time-Worth-grand.md)
 - [What I Wish I Knew Before I Learned to Code](./Prework-MindSet/wish-i-knew.md)
 
+## Typing Practice
+![screenshot typing](screenshot_typing.png)
+
+
 ## Code-Challenge
 ### Problem 1: Array Max Result
   
