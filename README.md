@@ -8,6 +8,7 @@ Prework
 
 
 ## MindSet
+- [Deliberate Practice — The Fastest Way to Improve Your Skills](./Prework-MindSet/UpgradeTechSkill.md)
 - [Carol Dweck on the Growth Mindset](./Prework-MindSet/Power-of-Positive-mindset.md)
 - [Angela Lee Duckworth on Grit](./Prework-MindSet/Gritty.md)
 - [Alain de Botton on Redefining Success](./Prework-MindSet/failure.md)
