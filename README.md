@@ -28,7 +28,7 @@ Prework
 Run the application by typing `dotnet run` in the /code-challenge folder. This will prompt main menu. Type in 1 and enter to open `Array Max Result` application.
 Thereafter, type in 5 inputs and follow instruction. Upon entering five numbers console will prompt my number and how many points user earned.
   
-![dotnet prework code challenge #1](challenge1.jpg)
+![dotnet prework code challenge #1](ArrayMaxResult.jpg)
 
 ### Problem 2: Leap Year Calculation
 
@@ -36,7 +36,7 @@ Thereafter, type in 5 inputs and follow instruction. Upon entering five numbers 
 Run the application by typing `dotnet run` in the /code-challenge folder. This will prompt main menu. Type in 2 and enter to open `Leap Year Calculation` application.
 Thereafter, type in year as seen in instruction. Upon entering the year, console will prompt if it is indeed leap year or not.
   
-![dotnet prework code challenge #2](challenge2.jpg)
+![dotnet prework code challenge #2](LeapYear.jpg)
 
 ### Problem 3: Perfect Sequence
 
@@ -44,7 +44,7 @@ Thereafter, type in year as seen in instruction. Upon entering the year, console
 Run the application by typing `dotnet run` in the /code-challenge folder. This will prompt main menu. Type in 3 and enter to open `Perfect Sequence` application.
 Thereafter, type in list of numbers with commas(,) as seen in instruction. Upon entering the numbers, console will prompt if it is indeed a perfect sequence.
   
-![dotnet prework code challenge #3](challenge3.jpg)
+![dotnet prework code challenge #3](PerfSeq.jpg)
 
 ### Problem 4: Sum of Rows
 
@@ -52,7 +52,7 @@ Thereafter, type in list of numbers with commas(,) as seen in instruction. Upon 
 Run the application by typing `dotnet run` in the /code-challenge folder. This will prompt main menu. Type in 4 and enter to open `Sum of Rows` application.
 Thereafter, type in the length and width of multi-dimensional array as seen in instruction. Upon entering the two values, console will prompt the randomly generated numbers at each position of array and sum of each postion.
   
-![dotnet prework code challenge #3](challenge4.jpg)
+![dotnet prework code challenge #3](SumOfRows.jpg)
 
 
 
