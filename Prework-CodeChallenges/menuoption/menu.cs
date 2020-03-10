@@ -4,7 +4,7 @@ using System.Text;
 
 namespace code_challenge
 {
-    class mainMenu
+    class menu
     {
     }
 }
