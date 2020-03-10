@@ -6,8 +6,4 @@
     <RootNamespace>code_challenge</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="program\" />
-  </ItemGroup>
-
 </Project>
