@@ -7,8 +7,10 @@ namespace code_challenge
     {
         static void Main(string[] args)
         {
+            try
+            {
             Console.WriteLine(@"
-                                ================================
+                                ================================///
                                 #   Welcome to my application  #
                                 #      made by Jin             #
                                 ================================");
@@ -27,6 +29,11 @@ namespace code_challenge
             Console.WriteLine($"Thank you for playing bye~ {userName}");
             Console.ResetColor();
             Environment.Exit(0);
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("You have entered invalid entry, please restrt the application");
+            }
         }
     }
 }
