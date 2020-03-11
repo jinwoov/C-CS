@@ -10,7 +10,7 @@ namespace code_challenge
             try
             {
             Console.WriteLine(@"
-                                ================================///
+                                ================================
                                 #   Welcome to my application  #
                                 #      made by Jin             #
                                 ================================");
