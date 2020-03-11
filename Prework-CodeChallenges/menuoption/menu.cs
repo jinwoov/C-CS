@@ -8,6 +8,8 @@ namespace code_challenge.menuoption
     {
         public static bool Mainmenu(string name)
         {
+            if (name == "")
+                throw new ArgumentException("no name");
             Console.BackgroundColor = ConsoleColor.Black;
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("");
@@ -46,9 +48,13 @@ namespace code_challenge.menuoption
                 SumRows.SumOfRows(name);
                 return true;
             }
-            else
+            else if (userChoice == 5)
             {
                 return false;
+            }
+            else
+            {
+                throw new ArgumentNullException("not a number choice");
             }
         }
     }
