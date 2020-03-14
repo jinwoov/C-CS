@@ -43,15 +43,14 @@ namespace code_challenge.menuoption
                 Console.ForegroundColor = ConsoleColor.Black;
                 Console.WriteLine(
                 "My choice was {0}, and overall you got {1} points.", 4, myScore);
-                Console.BackgroundColor = ConsoleColor.Black;
-                Console.ForegroundColor = ConsoleColor.White;
+                Console.ResetColor();
             }
             else
             {
                 Console.BackgroundColor = ConsoleColor.Green;
                 Console.WriteLine(
                 "********* Congratulation! My choice was {0}, and overall you got {1} points. ***********", 4, myScore);
-                Console.BackgroundColor = ConsoleColor.Black;
+                Console.ResetColor();
             }
         }
     }
