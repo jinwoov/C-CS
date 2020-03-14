@@ -39,8 +39,7 @@ namespace code_challenge.menuoption
             Console.BackgroundColor = ConsoleColor.Yellow;
             Console.ForegroundColor = ConsoleColor.Black;
             Console.Write("Press any key to generate random numbers");
-            Console.BackgroundColor = ConsoleColor.Black;
-            Console.ForegroundColor = ConsoleColor.White;
+            Console.ResetColor();
             Console.ReadLine();
             Random randomNum = new Random();
             int[,] myArray = new int[lengthNumber, widthNum];

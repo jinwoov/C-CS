@@ -50,14 +50,14 @@ namespace code_challenge.menuoption
                 Console.BackgroundColor = ConsoleColor.DarkGreen;
                 Console.WriteLine("{1}, you entered {0}", userInput, name);
                 Console.WriteLine("Yes, it is perfect sequence!");
-                Console.BackgroundColor = ConsoleColor.Black;
+                Console.ResetColor();
             }
             else
             {
                 Console.WriteLine("{1}, you entered {0}", userInput, name);
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("No, it is not a perfect sqeuence.");
-                Console.ForegroundColor = ConsoleColor.White;
+                Console.ResetColor();
             }
         }
     }

@@ -27,8 +27,7 @@ namespace code_challenge.menuoption
                 Console.BackgroundColor = ConsoleColor.Red;
                 Console.Beep();
                 Console.WriteLine("Yes! {0}, {1} is leap year", name, year);
-                Console.ForegroundColor = ConsoleColor.White;
-                Console.BackgroundColor = ConsoleColor.Black;
+                Console.ResetColor();
             }
             else if (year % 4 == 0 && year % 400 == 0)
             {
@@ -36,14 +35,13 @@ namespace code_challenge.menuoption
                 Console.BackgroundColor = ConsoleColor.Red;
                 Console.Beep();
                 Console.WriteLine("Yes! {0}, {1} is leap year", name, year);
-                Console.ForegroundColor = ConsoleColor.White;
-                Console.BackgroundColor = ConsoleColor.Black;
+                Console.ResetColor();
             }
             else
             {
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("T.T Sorry {0}, {1} is not leap year", name, year);
-                Console.BackgroundColor = ConsoleColor.White;
+                Console.ResetColor();
             }
         }
     }

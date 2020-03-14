@@ -8,31 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\jin\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/home/jin/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jin\\codefellows\\401\\C-CS\\Prework-CodeChallenges\\code-challenge.csproj",
+      "projectUniqueName": "/mnt/c/Users/User/codefellows/401/C-CS/Prework-CodeChallenges/code-challenge.csproj",
       "projectName": "code-challenge",
-      "projectPath": "C:\\Users\\jin\\codefellows\\401\\C-CS\\Prework-CodeChallenges\\code-challenge.csproj",
-      "packagesPath": "C:\\Users\\jin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jin\\codefellows\\401\\C-CS\\Prework-CodeChallenges\\obj\\",
+      "projectPath": "/mnt/c/Users/User/codefellows/401/C-CS/Prework-CodeChallenges/code-challenge.csproj",
+      "packagesPath": "/home/jin/.nuget/packages/",
+      "outputPath": "/mnt/c/Users/User/codefellows/401/C-CS/Prework-CodeChallenges/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\jin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/home/jin/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -63,7 +56,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
       }
     }
   }
